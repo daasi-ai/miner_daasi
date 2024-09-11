@@ -26,8 +26,8 @@ pip install -e .
 
 ## Running the Miner
 
-- Make sure you have the node_config.json file with the correct node details from your enclave
-- Add it running then add "running" if not add as "standby" 
+- Make sure you have the node_config.json file with the correct node ip from after running your enclave
+- Add if its live then add "running" if not add"standby" 
 - DO NOT CHANGE THE PORT OR USAGE_PORT VALUES IN THE JSON FILE
 
 After installation, run the miner with your hotkey and coldkey:
