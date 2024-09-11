@@ -1,0 +1,9 @@
+[   
+      {
+        "name":"TEST NODE-1",
+        "ip":"72.XX.XX.XX",
+        "port":"8090",
+        "usage_port":"8080",
+       "status":"Running"
+      }
+]
